@@ -1,13 +1,10 @@
 import java.util.Scanner;
-/**
- *
- * Kelompok 6A PBO
+/* Kelompok 6A PBO
 Riangdana Jurmasari 60900121012
 Safaruddin 60900121046
 Yunita Amalia 60900121018
 Ananda Intan Pratiwi 60900121005
-Faisal Faiz 60900121004
- */
+Faisal Faiz 60900121004 */
 public class Main {
     
     
