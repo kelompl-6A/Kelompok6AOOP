@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Input_serangan extends Maps{
+public class InputSerangan extends Maps{
     public static void chinaTurn(){
     System.out.println("Masukan Titik Serangan!!");
     int x=-1,y=-1;
