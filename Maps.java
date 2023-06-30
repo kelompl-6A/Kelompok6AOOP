@@ -1,7 +1,7 @@
 public class Maps {
 
-    public static int shipX = 8;
-    public static int shipY = 8;
+    public static int shipX = 10;
+    public static int shipY = 10;
     public static int jum_ship_china;
     public static int jum_ship_amerika;
     public static int[][] miss = new int[shipX][shipY];
