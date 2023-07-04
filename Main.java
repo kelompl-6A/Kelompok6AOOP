@@ -1,5 +1,5 @@
 import java.util.Scanner;
-/* Kelompok 6A PBO
+/* Kelompok 6A PBO demo
 Riangdana Jurmasari 60900121012
 Safaruddin 60900121046
 Yunita Amalia 60900121018
