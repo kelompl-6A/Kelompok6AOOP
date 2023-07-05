@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 /* Kelompok 6A PBO
 Riangdana Jurmasari 60900121012
 Safaruddin 60900121046

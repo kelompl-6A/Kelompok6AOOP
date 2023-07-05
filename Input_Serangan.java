@@ -28,6 +28,7 @@ public class Input_Serangan extends Maps {
                 System.out.println("Kamu tidak bisa menempatkan lokasi/kordinat di atas " + kapalX +
                         " dan " + kapalY + ", dihitung dari 0-4");
             }
+           
         }
     }
 
@@ -58,6 +59,7 @@ public class Input_Serangan extends Maps {
                 System.out.println("Kamu tidak bisa menempatkan lokasi/kordinat di atas " + kapalX +
                         " dan " + kapalY + ", dihitung dari 0-4");
             }
+            
         }
     }
 }
