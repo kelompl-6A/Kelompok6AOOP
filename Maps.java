@@ -1,5 +1,5 @@
 public class Maps {
-
+// ini adalah kelas maps 
     public static int kapalX = 10;
     public static int kapalY = 10;
     public static int jum_kapal_indonesia;
