@@ -3,7 +3,9 @@ import java.util.Scanner;
 public class Input_Serangan extends Maps {
 //ini adalah kelas input_serangan yang merupakan turunan kelas maps
     public static void indonesiaTurn() {
+        //menampilkan output Masukkan Titik Serangan!!
         System.out.println("Masukan Titik Serangan!!");
+        //mendeklarasikan x dan y
         int x = -1, y = -1;
         while ((x < 0 || x >= kapalX) || (y < 0 || y >= kapalY)) {
             Scanner input = new Scanner(System.in);
