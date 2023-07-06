@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Input_Serangan extends Maps {
+//ini adalah kelas input_serangan yang merupakan turunan kelas maps
     public static void indonesiaTurn() {
         System.out.println("Masukan Titik Serangan!!");
         int x = -1, y = -1;
