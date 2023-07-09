@@ -10,14 +10,24 @@ Yunita Amalia 60900121018
 Ananda Intan Pratiwi 60900121005
 Faisal Faiz 60900121004 */
 
+import javax.swing.SwingUtilities;
+
 public class Main {
     public static void main(String[] args) {
+          SwingUtilities.invokeLater(new Runnable() {
+            public void run() {
+                new MapsGUII().setVisible(true);
+            }
+        });
         System.out.println("Game Battlekapal");
         Maps map = new Maps();
+
+     
         map.initializeMaps();
 
         // Memanggil input kapal Indonesia
         SaveKordinat save = new SaveKordinat();
+        
         save.saveKordinatC();
         // Memanggil input kapal Malaysia
         save.saveKordinatA();
